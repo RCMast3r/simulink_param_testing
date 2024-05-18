@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Param",
+    "type": "float"
+  },
+  {
+    "name": "ParamCopy",
+    "type": "float"
+  }
+]
